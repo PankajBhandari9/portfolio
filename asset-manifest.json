@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.68acdbc8.chunk.css",
+    "main.js": "/portfolio/static/js/main.bab83c06.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.bab83c06.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.08da548e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.08da548e.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/portfolio/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.cb7a8e34.chunk.js": "/portfolio/static/js/2.cb7a8e34.chunk.js",
+    "static/js/2.cb7a8e34.chunk.js.map": "/portfolio/static/js/2.cb7a8e34.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/portfolio/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.68acdbc8.chunk.css.map": "/portfolio/static/css/main.68acdbc8.chunk.css.map",
+    "static/js/2.cb7a8e34.chunk.js.LICENSE.txt": "/portfolio/static/js/2.cb7a8e34.chunk.js.LICENSE.txt",
+    "static/media/reactSS.98dd5bca.png": "/portfolio/static/media/reactSS.98dd5bca.png",
+    "static/media/tinder.1c197b91.png": "/portfolio/static/media/tinder.1c197b91.png",
+    "static/media/watch.2a6a5939.jpg": "/portfolio/static/media/watch.2a6a5939.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08da548e.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.cb7a8e34.chunk.js",
+    "static/css/main.68acdbc8.chunk.css",
+    "static/js/main.bab83c06.chunk.js"
+  ]
+}
